@@ -1,0 +1,6 @@
+#!/bin/bash
+# remove project
+
+sudo echo removing
+#sudo rm /usr/bin/firstproj
+echo finished

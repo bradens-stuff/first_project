@@ -1,0 +1,8 @@
+#!/bin/bash
+# compile project
+
+sudo echo compiling
+gcc main.c atm.c divider.c mean.c name.c -o firstproj -Wall
+#echo installing
+#sudo mv firstproj /usr/bin
+echo finished
